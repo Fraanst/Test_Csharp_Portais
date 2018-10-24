@@ -8,7 +8,6 @@ namespace X9.Domain.Helpers
 		{
 			X9_cns = ConfigurationManager.ConnectionStrings["X9_connectionString"]?.ConnectionString;
 			Sly_url = ConfigurationManager.AppSettings["urlSky"]?.ToString();
-			Date = ConfigurationManager.AppSettings["FindDate"]?.ToString();
 			Atacadao_url = ConfigurationManager.AppSettings["urlAtacadao"].ToString();
 			FiquenClaro_url = ConfigurationManager.AppSettings["urlFiqueClaro"]?.ToString();
 			Claro_url = ConfigurationManager.AppSettings["urlClaro"]?.ToString();

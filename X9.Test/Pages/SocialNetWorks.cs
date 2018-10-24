@@ -26,7 +26,7 @@ namespace X9.Test.Pages
 					if (pagebase.ExpectedUrl(_chrome, "send?phone="))
 					{
 						Thread.Sleep(1000);
-						_chrome.Url = Regex.Replace(_chrome.Url, "=.+", "=554192176473");
+						_chrome.Url = Regex.Replace(_chrome.Url, "=.+", "=5541900000000");
 						Thread.Sleep(1000);
 						if (pagebase.ExpectedUrl(_chrome, "send?phone")) { } //deu boa
 						else
