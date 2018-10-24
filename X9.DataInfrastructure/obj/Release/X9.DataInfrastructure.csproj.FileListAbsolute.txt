@@ -1,0 +1,14 @@
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\X9.DataInfrastructure.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\X9.DataInfrastructure.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\Dapper.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\Google.Protobuf.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\SQL.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\X9.Domain.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\X9.Domain.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\Dapper.xml
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\bin\Release\Google.Protobuf.xml
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\obj\Release\X9.DataInfrastructure.csprojAssemblyReference.cache
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\obj\Release\X9.DataInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\obj\Release\X9.DataInfrastructure.csproj.CopyComplete
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\obj\Release\X9.DataInfrastructure.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.DataInfrastructure\obj\Release\X9.DataInfrastructure.pdb

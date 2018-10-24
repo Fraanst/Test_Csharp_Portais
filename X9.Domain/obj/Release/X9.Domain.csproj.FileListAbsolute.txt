@@ -1,0 +1,10 @@
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\bin\Release\X9.Domain.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\bin\Release\X9.Domain.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\bin\Release\Dapper.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\bin\Release\SQL.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\bin\Release\Dapper.xml
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\obj\Release\X9.Domain.csprojAssemblyReference.cache
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\obj\Release\X9.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\obj\Release\X9.Domain.csproj.CopyComplete
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\obj\Release\X9.Domain.dll
+C:\Users\stramantinoli.franci\source\repos\x9\X9.Domain\obj\Release\X9.Domain.pdb

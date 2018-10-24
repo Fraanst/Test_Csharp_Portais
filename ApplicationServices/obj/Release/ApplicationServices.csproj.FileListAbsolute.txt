@@ -1,0 +1,16 @@
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\ApplicationServices.dll.config
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\ApplicationServices.dll
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\ApplicationServices.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\X9.DataInfrastructure.dll
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\X9.Domain.dll
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\Dapper.dll
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\X9.DataInfrastructure.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\X9.Domain.pdb
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\bin\Release\Dapper.xml
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.csprojAssemblyReference.cache
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.Properties.Resources.resources
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.csproj.GenerateResource.cache
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.csproj.CopyComplete
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.dll
+C:\Users\stramantinoli.franci\source\repos\x9\ApplicationServices\obj\Release\ApplicationServices.pdb
